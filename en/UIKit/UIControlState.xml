@@ -118,7 +118,7 @@
       </ReturnValue>
       <MemberValue>0</MemberValue>
       <Docs>
-        <summary>The normal state of the control (not disabled and not higlighted)</summary>
+        <summary>The normal state of the control (not disabled and not highlighted)</summary>
       </Docs>
     </Member>
     <Member MemberName="Reserved">
